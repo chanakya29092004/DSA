@@ -1,2 +1,2 @@
 # DSA
-all the codes related to dsa sheet of TUF will be here!
+all the codes related to A - Z dsa sheet of TUF
